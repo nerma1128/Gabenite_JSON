@@ -1,0 +1,44 @@
+[
+{
+    "Firstname": "Nerma",
+    "Lastname": "Gabenite",
+    "Age": 22,
+    "Address":" Lopez Jaena St., Jaro, Iloilo City",
+    "Contact Number": "09686883476",
+
+   
+},
+
+{
+ "Friend List":[
+    {
+     "Name": "Monique Michelle Macias",
+     "Age": 22,
+     " Address": "Jaro, Iloilo City",
+     " Likes": "Likes to play instruments ",
+     " Dislikes": "Fruits",
+     " Feeling": " Blessed "
+
+    },
+   { "Name": "Aleah Ira Sy",
+    "Age": 21,
+    " Address": "Jaro, Iloilo City",
+    " Likes": "Likes to eat ",
+    " Dislikes": "Fruits",
+    " Feeling": " Blessed "
+   },
+
+
+   {
+    "Name": "Dian De la Rosa",
+     "Age": 22,
+     " Address": "Jaro, Iloilo City",
+     " Likes": "Likes watch movies and play mobile games",
+     " Dislikes": " ",
+     " Feeling": " Great "
+
+   }
+
+    ]
+}
+]
